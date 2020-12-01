@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Teleport.cs" />
     <Compile Include="Assets\Weistrasse.cs" />
     <Compile Include="Assets\fractalFlicking.cs" />
     <Compile Include="Assets\ppFlick.cs" />
